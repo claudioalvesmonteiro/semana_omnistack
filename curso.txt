@@ -1,0 +1,12 @@
+# Configurando a maquina no terminal linux
+
+### instalar nodejs e yarn (package manager)
+sudo apt-get install nodejs
+sudo apt-get install yarn
+
+### instalar pacotes globais do react
+yarn global add create-react-app
+yarn global add react-native-cli
+
+### PS: verificar versao do java == 8
+https://github.com/Rocketseat/ambiente-react-native/blob/master/linux-dependencias.md
